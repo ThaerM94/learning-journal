@@ -12,5 +12,6 @@ Also this is the first work and we hopful to continue and go ahead.
 
 Name | link
 ---- | -----
-Markdown.md | [markdown](https://thaerm94.github.io/learning-journal/learning-markdown.md)
-Text editor | [text-editor](https://thaerm94.github.io/learning-journal/learning-text-editor.md)
+Markdown.md | [markdown](https://thaerm94.github.io/learning-journal/learning-markdown)
+Text editor | [text-editor](https://thaerm94.github.io/learning-journal/learning-text-editor)
+Remote.md | [remote](https://thaerm94.github.io/learning-journal/remote)
